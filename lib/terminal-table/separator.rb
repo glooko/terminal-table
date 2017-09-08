@@ -1,4 +1,4 @@
-module Terminal
+module TerminalTable
   class Table
     class Separator < Row
 

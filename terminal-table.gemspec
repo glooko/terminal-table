@@ -5,12 +5,12 @@ require 'terminal-table/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "terminal-table"
-  spec.version       = Terminal::Table::VERSION
+  spec.version       = TerminalTable::Table::VERSION
   spec.authors       = ["TJ Holowaychuk", "Scott J. Goldman"]
   spec.email         = ["tj@vision-media.ca"]
 
   spec.summary       = "Simple, feature rich ascii table generation library"
-  spec.homepage      = "https://github.com/tj/terminal-table"
+  spec.homepage      = "https://github.com/glooko/terminal-table"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

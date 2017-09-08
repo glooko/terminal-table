@@ -1,6 +1,6 @@
 require 'unicode/display_width'
 
-module Terminal
+module TerminalTable
   class Table
     class Cell
       ##

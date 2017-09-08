@@ -78,7 +78,7 @@ All props to @vizv for this release!
 
 === 1.0.3 / 2009-01-15
 
-* Moved yield or eval to Terminal::Table initialize where it belongs
+* Moved yield or eval to TerminalTable::Table initialize where it belongs
 
 === 1.0.0 / 2009-01-13
 
